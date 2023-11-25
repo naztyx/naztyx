@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @naztyx, real name Yila😁
 - 👀 I’m interested in Blockchain, QA, Cyber Security and Data Science.
-- 🌱 Lover of anything Python and Java 😌
+- 🌱 Lover of all things Python, Solidity, Web3 and Java 😌
 - 💞️ I’m looking to collaborate on anything productive and of interest
 - 📫 
 
